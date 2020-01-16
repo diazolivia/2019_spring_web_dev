@@ -91,7 +91,7 @@ competition, but not every aspect of Node.js is a positive. One of the main prob
 that developers face is that the Application Programming Interface (API) keeps on
 changing and is not stable. This can result in the developers being forced to
 make changes to accessible code bases to match the latest version of the Node.js
-API which is a waste of time and very repetitive and inefficient. Node.js also
+API [NodeJSFeatures]_ which is a waste of time and very repetitive and inefficient. Node.js also
 does not have a strong library support system. Node.js has also adapted an
 asynchronous programming model. With there being more advantages for
 developers in comparison to other languages, Node.js is being adopted by more
@@ -234,3 +234,5 @@ Sources
 .. [BeforeNodeJS] Before Node.JS "`Before NodeJS <https://www.quora.com/Before-Node-js-was-created-how-did-JavaScript-communicate-with-a-database>`_" Google, Web 4/4/2019
 
 .. [SingleThreadMechanism] Node.JS Code "`Single Thread <https://codeburst.io/how-node-js-single-thread-mechanism-work-understanding-event-loop-in-nodejs-230f7440b0ea>`_" Google, Web 4/4/2019
+
+.. [NodeJSFeatures] Node.JS Advantages "`Advantages and disadvantages <https://www.etatvasoft.com/blog/nodejs-10-0-getting-even-better/>`_" Google,Web 4/4/2019
